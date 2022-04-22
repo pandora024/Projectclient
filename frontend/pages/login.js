@@ -29,33 +29,31 @@ export default function Login({ token }) {
   };
 
   const loginForm = () => (
-    <div class="shadow-lg p-3 mb-5 bg-body rounded">
-      <div className={styles.gridContainer}>
-        <div>Username:</div>
-        <div>
-          <input
-            type="text"
-            name="username"
-            placeholder="username"
-            onChange={(e) => setUsername(e.target.value)}
-          />
-        </div>
-        <div>Password:</div>
-        <div>
-          <input
-            type="password"
-            name="password"
-            placeholder="password"
-            onChange={(e) => setPassword(e.target.value)}
-          />
-        </div>
+    <div className={styles.gridContainer}>
+      <div>Username:</div>
+      <div>
+        <input
+          type="text"
+          name="username"
+          placeholder="username"
+          onChange={(e) => setUsername(e.target.value)}
+        />
+      </div>
+      <div>Password:</div>
+      <div>
+        <input
+          type="password"
+          name="password"
+          placeholder="password"
+          onChange={(e) => setPassword(e.target.value)}
+        />
       </div>
     </div>
   );
 
-  const copyText = () => {
-    navigator.clipboard.writeText(token);
-  };
+  // const copyText = () => {
+  //   navigator.clipboard.writeText(token);
+  // };
 
   return (
     <Layout>
@@ -65,11 +63,9 @@ export default function Login({ token }) {
       <div className={styles.container}>
         <Navbar />
         <h1>Login</h1>
-        <div>
-          <b>Token:</b> {token.substring(0, 15)}...
-          <button onClick={copyText}> Copy token </button>
-        </div>
-        <br />
+
+        <br/>
+      
         <div> Status: {status}</div>
         <br />
         {loginForm()}

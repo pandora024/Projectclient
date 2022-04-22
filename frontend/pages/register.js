@@ -1,4 +1,3 @@
-
 import { useState } from 'react'
 import Head from 'next/head'
 import Layout from '../components/layout'
@@ -75,17 +74,16 @@ export default function Register({ token }) {
     return (
         <Layout>
             <Head>
-                <title >Register</title>
+                <title>Register</title>
             </Head>
             <div className={styles.container}>
                 <Navbar />
-                <h1>Register</h1>
-                <div><b>Token:</b> {token.substring(0, 15)}...
-                <button
-                        onClick={() => { navigator.clipboard.writeText(token) }}>
-                        Copy token
-                </button>
-                </div>
+                <h1>KAI DEE</h1>
+        <link rel="preconnect" href="https://fonts.gstatic.com"/>
+<link href="https://fonts.googleapis.com/css2?family=Itim&display=swap" rel="stylesheet"></link>
+        <br/>
+                <h2>Register</h2>
+                
                 <br />
             Status:  {status}
                 <br /><br />
@@ -94,17 +92,7 @@ export default function Register({ token }) {
                 </div>
 
                 <div>
-                    {/* <button onClick={register} className="login100-form-btn" >Register</button> */}
-                    <button
-          type="primary"
-          onClick={register}
-          //disabled={fileList.length === 0}
-          // loading={uploading}
-
-          style={{ marginTop: 16 }}
-        >
-         Register
-        </button>
+                    <button onClick={register}>Register</button>
                 </div>
             </div>
         </Layout>

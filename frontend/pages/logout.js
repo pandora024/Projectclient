@@ -29,7 +29,7 @@ export default function Logout({ token }) {
                 <Navbar />
                 <h1>Logout</h1>
                 <div>
-                    <h2> {status}  </h2>
+                <h2><Link href="/"><a> {status} </a></Link>  </h2>
                 </div>
             </div>
         </Layout>
