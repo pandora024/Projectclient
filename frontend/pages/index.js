@@ -70,7 +70,7 @@ import Link from 'next/link'
 
         <h1>KAI DEE</h1>
         <h1>welcome</h1>
-        <link rel="preconnect" href="https://fonts.gstatic.com"/>
+        <link rel="preconnect" href="https://fonts.googleapis.com/css?family=Sofia"/>
 <link href="https://fonts.googleapis.com/css2?family=Itim&display=swap" rel="stylesheet"></link>
 
 

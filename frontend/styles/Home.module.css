@@ -10,6 +10,7 @@
     background: -o-linear-gradient(-135deg, #c850c0, #4158d0);
     background: -moz-linear-gradient(-135deg, #c850c0, #4158d0);
     background: linear-gradient(-135deg, #c850c0, #4158d0);
+    
 }
 .wrap-login100 {
     width: 960px;
@@ -25,6 +26,7 @@
     flex-wrap: wrap;
     justify-content: space-between;
     padding: 177px 130px 177px 95px;
+    font-family: "Sofia", sans-serif;
   }
 
 .content {
