@@ -37,6 +37,7 @@ export default function Register({ token }) {
     }
 
     const registerForm = () => (
+        
         <div className={styles.gridContainer}>
             <div>
                 Username:
@@ -78,7 +79,7 @@ export default function Register({ token }) {
             </Head>
             <div className={styles.container}>
                 <Navbar />
-                <h1>KAI DEE</h1>
+                <h1 class="font-effect-fire">KAI DEE</h1>
         <link rel="preconnect" href="https://fonts.gstatic.com"/>
 <link href="https://fonts.googleapis.com/css2?family=Itim&display=swap" rel="stylesheet"></link>
         <br/>

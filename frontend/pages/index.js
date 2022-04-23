@@ -68,10 +68,10 @@ import Link from 'next/link'
         <Navbar />
         <br></br>
 
-        <h1>KAI DEE</h1>
-        <h1>welcome</h1>
-        <link rel="preconnect" href="https://fonts.googleapis.com/css?family=Sofia"/>
-<link href="https://fonts.googleapis.com/css2?family=Itim&display=swap" rel="stylesheet"></link>
+        <h1 class="font-effect-fire">KAI DEE</h1>
+        <h1 class="font-effect-fire">welcome</h1>
+        <link  rel="stylesheet" href="https://fonts.googleapis.com/css?family=Sofia"/>
+<link href="https://fonts.googleapis.com/css?family=Sofia" rel="stylesheet"></link>
 
 
         <img  src="https://blog.sogoodweb.com/upload/510/CnhI7P4Nnx.png" alt="Trulli" width="300" height="250"></img>

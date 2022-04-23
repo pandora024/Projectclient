@@ -48,38 +48,40 @@ const Profile1 = ({ token }) => {
                     <div className={styles.box} >
                     <br></br>  
                     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                    KAI DEE เป็นร้านขายของที่ขายเฟอนิเจอร์แต่งบ้าน<br />
-                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; หากลูกค้าอยากได้อะไร แม้ในร้านเราไม่มีแม่ค้าก็สรรหามาให้จนได้ เพราะฉนั้นไว้ใจร้านเราได้ ร้านเราจัดส่งได้ทุกประเภท<br />
-                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; แล้วแต่ลูกค้ารีเควสมา <br></br>
+                    KAI DEE เป็นร้านขายของที่ขายเฟอนิเจอร์แต่งบ้านสไตล์มินิมอล
+                    หากลูกค้าอยากได้อะไรทางร้านจะจัดหา ของที่ถูกและดีมาให้อย่างแน่นอน &nbsp;&nbsp;<br /> 
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ไว้ใจร้านเราได้ ร้านเราจัดส่งได้ทุกประเภท ตามความต้องการของลูกค้า <br></br>
                     <br></br>
                     <link rel="preconnect" href="https://fonts.gstatic.com"/>
 <link href="https://fonts.googleapis.com/css2?family=Itim&display=swap" rel="stylesheet"></link>
             </div>
             <br />
                     <br/><br/>
-                    <img  src="https://media.allonline.7eleven.co.th/pdmain/363415_01_baby_bright_lip_cheek_velvet_cherry_blossom_2_4_g.jpg" alt="Trulli" width="250" height="250"></img>
+                    <img  src="https://www.naibann.com/wp-content/uploads/2019/02/24-Japanese-minimal-wooden-furniture-items-by-woken-wood-design-1.jpg" alt="Trulli" width="250" height="250"></img>
                     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                    <img  src="https://online.karmarts.com/media/catalog/product/cache/1/image/1800x/040ec09b1e35df139433887a97daa66f/0/1/01.lip_cheekcolor-stain-essence-01.jpg" alt="Trulli" width="250" height="250"></img> 
+                    <img  src="https://www.naibann.com/wp-content/uploads/2019/02/24-Japanese-minimal-wooden-furniture-items-by-woken-wood-design-9.jpg" alt="Trulli" width="250" height="250"></img> 
                     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                    <img  src="https://cf.shopee.co.th/file/23062df871c4c570e586dca25025ea47" alt="Trulli" width="250" height="250"></img> 
-                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                    <br></br>
-                    <br></br>
-                    <img  src="https://images-na.ssl-images-amazon.com/images/I/61UqvcCJGwL._SL1001_.jpg" alt="Trulli" width="250" height="250"></img>
-                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                    <img  src="https://img.joomcdn.net/e7d22913e36fb642ac21f9c345c90b60b0fca410_original.jpeg" alt="Trulli" width="250" height="250"></img> 
-                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                    <img  src="https://th-test-11.slatic.net/p/478da9fc972809962979db1713947e7d.jpg" alt="Trulli" width="250" height="250"></img> 
+                    <img  src="https://www.naibann.com/wp-content/uploads/2019/02/24-Japanese-minimal-wooden-furniture-items-by-woken-wood-design-12.jpg" alt="Trulli" width="250" height="250"></img> 
                     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                     <br></br>
                     <br></br>
+                    <img  src="https://www.naibann.com/wp-content/uploads/2019/02/24-Japanese-minimal-wooden-furniture-items-by-woken-wood-design-13.jpg" alt="Trulli" width="250" height="250"></img>
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    <img  src="https://www.naibann.com/wp-content/uploads/2019/02/24-Japanese-minimal-wooden-furniture-items-by-woken-wood-design-14.jpg" alt="Trulli" width="250" height="250"></img> 
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    <img  src="https://www.naibann.com/wp-content/uploads/2019/02/24-Japanese-minimal-wooden-furniture-items-by-woken-wood-design-21.jpg" alt="Trulli" width="250" height="250"></img> 
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    <br></br>
+                    <br></br>
+                    <br></br>
+                    <br></br>
+                    <div className={styles.box} >
                     ติดต่อเราได้ที่<br></br>
                     เบอร์โทรศัพท์ 0980529795<br></br>
                     Facebook : Pandora pd<br></br>
                     Lind Id : @pandoramefa<br></br>
-                    <img  src="https://img.icons8.com/bubbles/2x/facebook-new.png"  width="50" height="50"></img> 
-                    <img  src="https://i.pinimg.com/originals/2f/8b/6b/2f8b6be58b676791c6948de91ef4fd00.png"  width="50" height="50"></img>
-                    <img  src="https://img.icons8.com/bubbles/2x/instagram.png"  width="50" height="50"></img>
+                    </div>
+                    
                     <br></br>
                     <br></br>
                     <br></br>
