@@ -48,7 +48,7 @@ const Profile1 = ({ token }) => {
                     <div className={styles.box} >
                     <br></br>  
                     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                    KAI DEE เป็นร้านขายของที่ขายเฟอนิเจอร์แต่งบ้านสไตล์มินิมอล
+                    KAI DEE เป็นร้านขายของที่ขายเฟอนิเจอร์ของแต่งบ้านสไตล์มินิมอล
                     หากลูกค้าอยากได้อะไรทางร้านจะจัดหา ของที่ถูกและดีมาให้อย่างแน่นอน &nbsp;&nbsp;<br /> 
                     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ไว้ใจร้านเราได้ ร้านเราจัดส่งได้ทุกประเภท ตามความต้องการของลูกค้า <br></br>
                     <br></br>
